@@ -155,3 +155,6 @@ generatorElements.forEach( button => {
 } )
 
 regenerateCurrentQuiz();
+
+
+
